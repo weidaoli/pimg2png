@@ -2,12 +2,9 @@ pimg2png
 =
 two required procedures
 --
-expimg
--
+
 [expimg](http://asmodean.reverse.net/pages/expimg.html)
 
-tlg2png 
--
 [tlg2png](https://github.com/vn-tools/tlg2png/releases)
 
 Two programs need to be added to the Windows environment variables
