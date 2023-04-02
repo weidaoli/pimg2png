@@ -8,8 +8,8 @@ import os
 import subprocess
 import shutil
 
-path = 'E:\RE-BOOT\ssss'#input file path
-output = 'E:\RE-BOOT\output'#output file path
+path = r'E:\RE-BOOT\ssss'#input file path
+output = r'E:\RE-BOOT\output'#output file path
 
 pimg_files = [f for f in os.listdir(path) if f.endswith('.pimg')]
 for pimg_file in pimg_files:
